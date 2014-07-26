@@ -4,6 +4,6 @@ Login with
     <input id="openid_identifier" name="openid_identifier"
            type="hidden"
   value="https://www.google.com/accounts/o8/id"/>
-  	<img  src="/google.jpg" onClick="document.getElementById('customform').submit();">Google</img>
+  	<img  src="/google.jpg" onClick="document.getElementById('customform').submit();" style="cursor: pointer;">Google</img>
   	
 </form>
